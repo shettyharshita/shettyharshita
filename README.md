@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Harshita
+## Hi there 👋 I'm Harshita !
 
 - 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning Advanced Competitive Programming Concepts.
