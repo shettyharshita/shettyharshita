@@ -5,20 +5,20 @@
 - 👯 I’m looking to collaborate on Development Projects & Algorithmic Problems.
 - 📫 How to reach me: Email - [shettyharshita36@gmail.com](mailto:shettyharshita36@gmail.com) Linkedin - [Harshita Shetty](https://www.linkedin.com/in/harshita-shetty-b638a425a/)
 
-
-
-
-
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-mante&&show_icons=true" alt="Shreyas's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shettyharshita&&show_icons=true" alt="Harshita's Github Stats">
 </p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-mante" alt="Shreyas's Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshita" alt="Harshita's Top Languages">
 </p>
 <br>
 
+
+
+
+ 
 
 ### Programming Profiles :
 
